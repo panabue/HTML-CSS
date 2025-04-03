@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Smartfit;
+    src: url(Gotham-Font/GothamBook.ttf);
+}
+@font-face {
+    font-family: Smartfit2;
+    src: url(Gotham-Font/Gotham-Black.otf);
+}
+@font-face {
+    font-family: Smartfit3;
+    src: url(Gotham-Font/Gotham-Bold.otf);
+}
+p{
+    font-family: Smartfit2;
+}
+body{
+    margin: 0;
+}
